@@ -14,8 +14,8 @@ Over the last 7 years, I've specialized in *Laravel*, building scalable and main
 
 ---
 
-### 📫 Social Networks
+### Other Social Networks
 
-- 💼 [LinkedIn](https://linkedin.com/in/devajmeireles)  
-- 🐦 [Twitter / X](https://x.com/devajmeireles)
-- 📺 [EuSeiPhp on YouTube](https://youtube.com/@euseiphp)
+- [LinkedIn](https://linkedin.com/in/devajmeireles)
+- [Twitter / X](https://x.com/devajmeireles)
+- [EuSeiPhp on YouTube](https://youtube.com/@euseiphp)
