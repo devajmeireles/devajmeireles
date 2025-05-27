@@ -10,7 +10,6 @@ Over the last 7 years, I've specialized in *Laravel*, building scalable and main
 
 - **Laravel** — Contributing features to the world’s most popular PHP framework.
 - **TallStackUI** — A component library tailored for TALL Stack applications.
-- **PagHiper for Laravel** — A clean, fluent abstraction for integrating PagHiper into Laravel applications.
 
 ---
 
