@@ -9,11 +9,12 @@ Over the last 7 years, I've specialized in *Laravel*, building scalable and main
 ### Open-Source Collaborations
 
 - **Laravel** — Contributing features to the world’s most popular PHP framework.
-- **TallStackUI** — A component library tailored for TALL Stack applications.
+- **TallStackUI** — [A component library tailored for TALL Stack applications.](https://tallstackui.com/)
+- **Fraction** — [A small Laravel package that simplifies your experience with the Action Pattern.](http://fractionforlaravel.com/)
 
 ---
 
-### Other Social Networks
+### Social Networks
 
 - [LinkedIn](https://linkedin.com/in/devajmeireles)
 - [Twitter / X](https://x.com/devajmeireles)
