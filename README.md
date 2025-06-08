@@ -6,11 +6,11 @@ Over the last 8 years, I've specialized in *Laravel*, building scalable and main
 
 ---
 
-### Open-Source Collaborations
+### Open-Source & Portfolio
 
-- **Laravel** — Contributing features to the world’s most popular PHP framework.
+- **Laravel** — Contributing to the ecosystem of the world’s most popular PHP framework.
 - **TallStackUI** — [Powerful suite of Blade components that elevate your workflow of Livewire applications.](https://tallstackui.com/)
-- **Fraction** — [Small Laravel package that simplifies your experience with the Action Pattern.](http://fractionforlaravel.com/)
+- **Fraction** — [Small Laravel package that simplifies your experience with the Laravel Action Pattern.](http://fractionforlaravel.com/)
 
 ---
 
